@@ -54,3 +54,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 3. Make your changes and ensure the code lints without errors.
 4. Commit your changes and push them to your fork.
 5. Submit a pull request with a detailed description of your changes.
+
+## UI
+<img width="1850" height="851" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/16b3fd63-9533-4ca5-b094-02327d3cb0fb" />
