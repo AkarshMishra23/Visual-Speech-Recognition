@@ -22,10 +22,10 @@ The web interface allows users to upload videos containing speech to be processe
 To run the project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/akashchatterjee3502/lip-reading.git
-   cd lip-reading
-   ```
+```bash
+git clone https://github.com/AkarshMishra23/Visual-Speech-Recognition.git
+cd Visual-Speech-Recognition
+```
 
 2. Install the required dependencies:
    ```bash
